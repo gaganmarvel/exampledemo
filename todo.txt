@@ -1,0 +1,5 @@
+1. Check messages
+2. Eat
+3. Check more messages
+4. Rest
+5. Repeat
